@@ -7,7 +7,9 @@ DSND Capstone Project
 2. [Project Motivation](#motivation)
 3. [Files](#files)
 4. [Conclusion](#Conclusion)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Acknowledgements](#acknowledgements)
+6. [Contribution](#contribution)
+
 
 ## Installation <a name="installation"></a>
 
@@ -42,6 +44,9 @@ According to the results of the model, it is the frequency of Thumbs Down that h
 
 I post a blog about the detail, you can find it [here](https://medium.com/@omtripathi88/customer-churn-prediction-with-pyspark-on-sparkify-data-48ef24c8e08a).
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Udacity for the project. You can't use this for you Udacity capstone project. Otherwise, feel free to use the code here as you would like! 
+## Acknowledgements <a name="acknowledgements"></a>
+I want to thank UDACITY for the oportunity of doing this project in the Data Scientist ND
+
+## Contribution <a name="contribution"></a>
+Contributions are welcome!! In case you are interesting to contribute please contact me.
