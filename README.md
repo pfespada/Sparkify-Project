@@ -30,17 +30,21 @@ Seaborn (https://seaborn.pydata.org/installing.html)
 
 ## Project Motivation<a name="motivation"></a>
 
-This is udacity's capstone project, using spark to analyze user behavior data from music app Sparkify.
+This is a project made for the final capstone Udacity project for the Data Scientist Nanodegree.
 
-Sparkify is a music app, this dataset contains two months of sparkify user behavior log. The log contains some basic information about the user as well as information about a single action. A user can contain many entries. In the data, a part of the user is churned, through the cancellation of the account behavior can be distinguished.
+The motivation of this project is to make a Machine Learning model to predict the Churn in a streaming music app ( 
+fictional).
+
+I made this project using a Users log dataset of two month where basic information about user is contained as well as informationa about the interactions in each session. 
+
+So I made a EDA in order to undertand the data and then selected the most relevante features in order to use them in the ML model to predict when a user will cancell his account.
+
 
 ## Files <a name="files"></a>
 
 **Sprakify .ipynb** Noteboock of this proyect. In this file you will find the code and analysis of this project
 
 ## Conclusion
-
-According to the results of the model, it is the frequency of Thumbs Down that has the greatest impact. Churn users have more Thumbs Down. Naturally, users will leave if they are not satisfied.
 
 I post a blog about the detail, you can find it [here](https://medium.com/@omtripathi88/customer-churn-prediction-with-pyspark-on-sparkify-data-48ef24c8e08a).
 
