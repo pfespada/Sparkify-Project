@@ -46,7 +46,12 @@ So I made a EDA in order to undertand the data and then selected the most releva
 
 ## Conclusion
 
-I post a blog about the detail, you can find it [here](https://medium.com/@omtripathi88/customer-churn-prediction-with-pyspark-on-sparkify-data-48ef24c8e08a).
+As a conclusion I wouls say that to predict Churn is not a simple task and needs to be studied carrefully from the features to the models.
+From a model standpoint, the three models got a similar accuracy which indicates that these models don’t predict many churn as this dataset is very unbalanced.
+However based on the results of the tunning we could say that there is potencial to be improved by playing with the hyperparameters.
+As mentioned, the feature has been selected by me but some other could be selected in order to do others tries in further studies. In this case Thumbs Down, NextSongs and AddFriends are the Top3 in features importance.
+
+I post a blog with details of this project. Click the following link to go to [here](https://medium.com/@omtripathi88/customer-churn-prediction-with-pyspark-on-sparkify-data-48ef24c8e08a).
 
 
 ## Acknowledgements <a name="acknowledgements"></a>
