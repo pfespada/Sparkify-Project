@@ -51,7 +51,7 @@ From a model standpoint, the three models got a similar accuracy which indicates
 However based on the results of the tunning we could say that there is potencial to be improved by playing with the hyperparameters.
 As mentioned, the feature has been selected by me but some other could be selected in order to do others tries in further studies. In this case Thumbs Down, NextSongs and AddFriends are the Top3 in features importance.
 
-I post a blog with details of this project. Click the following link to go to [here](https://medium.com/@omtripathi88/customer-churn-prediction-with-pyspark-on-sparkify-data-48ef24c8e08a).
+I post a blog with details of this project. Click the following link to go to [here](https://medium.com/@pfernandeze/sparkify-churn-prediction-by-ml-techniques-3e9016bed44d).
 
 
 ## Acknowledgements <a name="acknowledgements"></a>
